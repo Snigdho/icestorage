@@ -1,0 +1,17 @@
+version: '3'
+services:
+    web:
+      build: ./icestorage
+      ports: 
+        - 8000:80
+      networks:
+        - ice
+    database:
+      build: .
+      ports: 
+        - 3306:3306
+      networks:
+        - ice
+networks:
+  ice:
+    driver: "bridge"
