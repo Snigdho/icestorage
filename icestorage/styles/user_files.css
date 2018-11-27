@@ -1,0 +1,47 @@
+body{
+	margin: 0px;
+	background: #DEDEDE;
+}
+.whole_page{
+	margin: auto;
+	width: 1024px;
+
+}
+.content{
+	overflow: hidden;
+	background:#CCCCCC;
+	padding:30px 0;
+}
+.file_container{
+}
+.td1{
+	padding-left:30px;
+	padding-right:10px;
+	width: 80px;
+	text-align: center;
+}
+.td2{
+	width: 600px;
+	padding-left:10px;
+	padding-right:10px;
+}
+.td3{
+	width:194px;
+	padding-left:10px;
+	padding-right:10px;
+}
+.td4{
+	width: 70px;
+	text-align: center;
+}
+.td1, .td2, .td3, .td4{
+	float:left;
+	font-size: 18px;
+	padding-bottom: 3px;
+}
+.td2 a{
+	text-decoration:none;
+}
+.td2 a:hover{
+	text-decoration:underline;
+}

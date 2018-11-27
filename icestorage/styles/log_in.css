@@ -1,0 +1,54 @@
+body{
+	margin: 0px;
+	background: #DEDEDE;
+}
+.whole_page{
+	margin: auto;
+	width: 1024px;
+
+}
+.content{
+	overflow: hidden;
+}
+td{
+	padding: 10px 0;
+}
+.sign_in{
+	padding-top: 30px;
+	padding-bottom: 50px;
+	padding-left: 300px;
+	background: #CCCCCC;
+}
+.sign_up{
+	padding-top: 0px;
+	padding-bottom: 50px;
+	padding-left: 300px;
+	background: #CCCCCC;
+}
+.button{
+	padding: 5px 15px;
+	background: #BBBBBB;
+}
+.text_box{
+	width: 200px;
+}
+h3{
+	margin: auto;
+	font-size: 27px;
+	font-family: cambria;
+}
+.sign_up a{
+	text-decoration:none;
+	text-align:center;
+	color: #2222BB;
+}
+#register_button{
+	background: #AAAAAA;
+	width: 200px;
+	height: 34px;
+	padding-top: 10px;	
+	font-size: 20px;
+}
+#red{
+	color:red;
+}

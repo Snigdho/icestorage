@@ -1,0 +1,12 @@
+body{
+	margin: 0px;
+	background: #DEDEDE;
+}
+.whole_page{
+	margin: auto;
+	width: 1024px;
+
+}
+.content{
+	overflow: hidden;
+}

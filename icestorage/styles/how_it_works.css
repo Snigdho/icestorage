@@ -1,0 +1,32 @@
+body{
+	margin: 0px;
+	background: #DEDEDE;
+}
+.whole_page{
+	margin: auto;
+	width: 1024px;
+
+}
+.content{
+	overflow: hidden;
+	background: #CCCCCC;
+}
+
+.content table{
+	margin: 20px 0;
+	width: 100%;
+	border: 0px;
+}
+.td_1{
+	width: 40%;
+	text-align: center;
+}
+.img1{
+	width: 318px;
+}
+.td_2{
+	padding: 0 20px;
+}
+.td_2 p{
+	font-size: 22px;
+}

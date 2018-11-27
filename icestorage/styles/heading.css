@@ -1,0 +1,35 @@
+.bannar{
+	height: 100px;
+	background: #F0F0F0;
+}
+.bannar img{
+	height: 100px;
+	width: 100px;
+}
+.bannar span{
+	text-align: center;
+	font-size: 60px;
+	position:relative;
+	bottom: 30px;
+	left: 30px;
+	color: #4444DD;
+}
+
+.navigation_bar{
+	overflow: hidden;
+
+}
+.navigation_bar .blocks{
+	float: right;
+	padding: 10px 30px;
+	background: #E5E5E5;
+}
+.navigation_bar .blocks:hover{
+	background: #CCCCCC;
+}
+.navigation_bar a{
+	text-decoration: none;
+	color: black;
+	font: ariel;
+	font-size: 14;
+}
